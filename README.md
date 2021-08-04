@@ -2,8 +2,12 @@
 <img src="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/technology-linkedin-background-template-design-5ddf7265984fb7980eedccd4a9cff879_screen.jpg?ts=1597995925" alt="Girl in a jacket" width="100%">
 <h1>Portfólio André Ramos Cautero</h1>
 <p>
+<p>
   Olá, eu sou o André, sou projetista mecânico por formação dformado na faculdade de tecnologia do Estado de São Paulo.Fascinado por tecnologia desde a infância, sempre fui do tipo de criança que gostava de construir os próprios brinquedos, sempre fuçando, aprendendo e tentando inventar, seja construindo instrumentos musicais, circuitos impressos, fazendo cursos técnicos, energia solar, programação, resumindo: amo muito aprender!!! 
+ <p>
   Nós últimos 4 anos tenho me dedicado muito a essa área incrível que é a área de dados, meu primeiro contato foi analisando dados de ações, na época eu baixava as bases de dados de pregões e tentava tirar alguns insights, simular estratégias de investimento, tudo isso com VBA e Excel, na época não sabia nem o que era análise de dados, mas a partir dali nasceu essa paixão, por investigar dados e tentar extrair valor e informações que não era facilmente visíveis.
+<p>
+<p>  
   Apesar de muito longe de onde quero chegar aprendi muita coisa nesses últimos 4 anos, seja estudando, mas também desenvolvendo soluções para terceiros como freelancer, meu foco nunca foi ser empreendedor, mas posso dizer que aprendi muito com isso, desde lidar com o cliente, tarefas administrativas e com o contato com projetos de temas muito diversos, me exigiram muita paciência e jogo de cintura, mas foi como apreender 10 anos em 4 anos. Hoje me destaco na construção de dashboards principalmente pelo contato diário, tenho como objetivo especializar em ciência dos dados e extrair valor de mais valor dados.
 </p>
 <h3>Contato</h3>
