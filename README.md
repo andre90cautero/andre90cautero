@@ -45,7 +45,7 @@ Para o problema em questão, apenas tratei a base, retirei outliers afim de equa
   Essa seção é dedicada a alguns projetos profissionais e ficticios pela minha empresa Easy Dashboards, o grande foco da empresa é na visualização de dados, automação de planilhas e relatórios.
 </p>
 <br>
-<li><a href="https://app.powerbi.com/view?r=eyJrIjoiOTY4Zjk1NmQtNzFmMy00YzQxLWEzOTAtYjViM2ZhMjE4MzE1IiwidCI6IjRlZTcwOTI1LWQwODMtNDcxMi1iYmQ0LWQ5MDY2ZDlmY2Y4MiJ9&pageName=ReportSection">Dashboard - Processos tribunal de Justiça</a></li>
+
 <br>
 <li><a href="https://app.powerbi.com/view?r=eyJrIjoiYjZhZDYyYjItMjM1OS00ODBlLWI4ZjYtZjkwZjZhOGQ1OTMxIiwidCI6IjRlZTcwOTI1LWQwODMtNDcxMi1iYmQ0LWQ5MDY2ZDlmY2Y4MiJ9&pageName=ReportSection2edf54bdbd201b4a7c10
 ">Dashboard Fictício de People Analytics</a></li>
